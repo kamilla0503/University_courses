@@ -1,0 +1,19 @@
+SELECT * FROM  ( (SELECT * FROM Variant WHERE NOT (Chromosome="X") AND NOT (Chromosome="Y")) AS soma JOIN Population_variant ON soma.idVariant=Population_variant.Variant_idVariant )  ; 
+
+
+SELECT * FROM  ( SELECT * FROM (SELECT * FROM Variant WHERE NOT (Chromosome="X") AND NOT (Chromosome="Y")) AS soma JOIN Population_variant ON soma.idVariant=Population_variant.Variant_idVariant )  AS all_needed ; 
+
+
+SELECT id FROM (SELECT idVariant as id FROM Variant WHERE NOT (Chromosome="X") AND NOT (Chromosome="Y")) as new_t WHERE id IN (SELECT Variant_idVariant FROM Population_variant WHERE Population_Population_name="Russian");
+
+
+SELECT idVariant as id FROM Variant WHERE NOT (Chromosome="X") AND NOT (Chromosome="Y") AND idVariant IN (SELECT Variant_idVariant FROM Sample_variant WHERE Sample_variant.Sample_id=11);
+
+SELECT id_variant FROM (SELECT Variant_idVariant as id_variant, COUNT(Variant_idVariant) as counts FROM Sample_variant GROUP BY id_variant HAVING counts>3) as all_t; 
+
+
+SELECT id, Method FROM Sample WHERE Population_Population_name="Russian"; 
+
+SELECT Method, COUNT(Method) as counts FROM Sample GROUP BY Method; 
+
+SELECT Phenotype_Disease_name as Disease_name, Frequency FROM Phenotype_Variant WHERE Variant_idVariant="ABCA4";
