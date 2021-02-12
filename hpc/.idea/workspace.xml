@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d70fdf0-0ca4-4a0a-b4df-c7697a61eb74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Numerical_methods/Task_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Numerical_methods/Task_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numerical_methods/Task_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Numerical_methods/Task_3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../n_a_m_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../n_a_m_2.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1i3D13fxoev3cexMQPIU9l54j5w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/SAWs/Ising" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d70fdf0-0ca4-4a0a-b4df-c7697a61eb74" name="Default Changelist" comment="" />
+      <created>1601127163929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601127163929</updated>
+      <workItem from="1601127165730" duration="3444000" />
+      <workItem from="1601202644338" duration="922000" />
+      <workItem from="1601723097320" duration="1432000" />
+      <workItem from="1601734223178" duration="7109000" />
+      <workItem from="1601794855533" duration="625000" />
+      <workItem from="1602343702344" duration="2877000" />
+      <workItem from="1602502320336" duration="599000" />
+      <workItem from="1602928717594" duration="5324000" />
+      <workItem from="1602941094607" duration="3208000" />
+      <workItem from="1604132945139" duration="10406000" />
+      <workItem from="1605338182051" duration="19496000" />
+      <workItem from="1605946320763" duration="4961000" />
+      <workItem from="1605956469057" duration="7379000" />
+      <workItem from="1606416514732" duration="104000" />
+      <workItem from="1607154067404" duration="25006000" />
+      <workItem from="1607253805887" duration="678000" />
+      <workItem from="1607768653970" duration="435000" />
+      <workItem from="1608744393662" duration="684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="711" y="290" width="528" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602343748774">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state x="711" y="290" width="528" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/36.0.1884.1080@36.0.1884.1080" timestamp="1602343748774" />
+    <state x="761" y="299" width="428" height="484" key="FileChooserDialogImpl" timestamp="1608745602942">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state x="761" y="299" width="428" height="484" key="FileChooserDialogImpl/36.0.1884.1080@36.0.1884.1080" timestamp="1608745602942" />
+    <state x="641" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1602929124245">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state x="641" y="239" width="672" height="678" key="search.everywhere.popup/36.0.1884.1080@36.0.1884.1080" timestamp="1602929124245" />
+  </component>
+</project>
