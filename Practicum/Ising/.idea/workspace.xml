@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83444296-27fa-401f-b625-37392f282a27" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../COursera/DA_ML_4/stat.mean_conf_int.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../COursera/DA_ML_4/stat.mean_conf_int.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../COursera/DA_ML_4/week1_test1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../COursera/DA_ML_4/week1_test1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../COursera/NN_1/Logistic_Regression_with_a_Neural_Network_mindset_v6a(1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../COursera/NN_1/Logistic_Regression_with_a_Neural_Network_mindset_v6a(1).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../COursera/NN_1/Planar_data_classification_with_onehidden_layer_v6c.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../COursera/NN_1/Planar_data_classification_with_onehidden_layer_v6c.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW_28_01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW_28_01.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1k3Z2e5SZTADQZsy8RTNV0lnVi0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/SAWs/3D_Canonicsl_Ising" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83444296-27fa-401f-b625-37392f282a27" name="Default Changelist" comment="" />
+      <created>1604931029342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604931029342</updated>
+      <workItem from="1604931030719" duration="5642000" />
+      <workItem from="1604985409465" duration="1895000" />
+      <workItem from="1605283723979" duration="531000" />
+      <workItem from="1605370162119" duration="1449000" />
+      <workItem from="1605427156234" duration="1170000" />
+      <workItem from="1605472245427" duration="1115000" />
+      <workItem from="1605510995369" duration="2506000" />
+      <workItem from="1605540281537" duration="195000" />
+      <workItem from="1605544285942" duration="2722000" />
+      <workItem from="1605946212624" duration="105000" />
+      <workItem from="1606553914177" duration="4502000" />
+      <workItem from="1606570308594" duration="7749000" />
+      <workItem from="1606595623867" duration="782000" />
+      <workItem from="1606938732754" duration="3175000" />
+      <workItem from="1606992139665" duration="607000" />
+      <workItem from="1607152746259" duration="610000" />
+      <workItem from="1607254485436" duration="2589000" />
+      <workItem from="1607425193256" duration="599000" />
+      <workItem from="1607525439132" duration="1611000" />
+      <workItem from="1607703422496" duration="1000000" />
+      <workItem from="1607766878512" duration="626000" />
+      <workItem from="1608745606511" duration="2118000" />
+      <workItem from="1608804339741" duration="599000" />
+      <workItem from="1610901790824" duration="623000" />
+      <workItem from="1618925890033" duration="6802000" />
+      <workItem from="1619625464443" duration="220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="761" y="299" width="428" height="484" key="FileChooserDialogImpl" timestamp="1619625680763">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state x="761" y="299" width="428" height="484" key="FileChooserDialogImpl/36.0.1884.1080@36.0.1884.1080" timestamp="1619625680763" />
+  </component>
+</project>

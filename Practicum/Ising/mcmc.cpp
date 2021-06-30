@@ -97,7 +97,7 @@ Protein::Protein(long int n) {
     number_of_monomers = n*n;
 
     for (int i =0; i<number_of_monomers; i++){
-        sequence_on_lattice[i]  = distribution2(generators2);
+        sequence_on_lattice[i]  = 2*distribution2(generators2)-1;
     }
     count_contacts();
 
